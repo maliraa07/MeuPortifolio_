@@ -8,7 +8,7 @@ Um portfólio moderno, responsivo e com identidade visual forte para apresentar 
 
 ## 🌐 Acesse o site
 
-👉 **Portfólio online:** [https://maliraa07.github.io/MeuPortifolio_Dev/](https://maliraa07.github.io/MeuPortifolio_Dev/)
+👉 **Portfólio online:** [Acesse aqui:]((https://maliraa07.github.io/MeuPortifolio_/)
 
 ---
 
