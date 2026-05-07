@@ -8,7 +8,7 @@ Um portfólio moderno, responsivo e com identidade visual forte para apresentar 
 
 ## 🌐 Acesse o site
 
-👉 **Portfólio online:** [Acesse aqui:](https://maliraa07.github.io/MeuPortifolio_/)
+👉 **Portfólio online:** [Maria Fernanda Silva Lira](https://maliraa07.github.io/MeuPortifolio_/)
 
 ---
 
