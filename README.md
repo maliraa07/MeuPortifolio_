@@ -1,99 +1,141 @@
-# 🚀 Portfólio Profissional | Maria Fernanda Silva Lira
+<div align="center">
 
-Um portfólio moderno, responsivo e com identidade visual forte para apresentar minha jornada em tecnologia, com foco em **Front-End** e visão **Full Stack**.
+# Portfólio Profissional
 
-![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-8b5cf6)
-![Feito com](https://img.shields.io/badge/feito%20com-HTML%2FCSS%2FJS-ec4899)
-![Responsivo](https://img.shields.io/badge/layout-responsivo-22c55e)
+### Maria Fernanda Silva Lira — Front-End & visão Full Stack
 
-## 🌐 Acesse o site
+[![Portfólio ao vivo](https://img.shields.io/badge/🌐_Portfólio_Visitar_site-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://maliraa07.github.io/MeuPortifolio_/)
+[![Repositório](https://img.shields.io/badge/GitHub-MeuPortifolio_-181717?style=for-the-badge&logo=github)](https://github.com/maliraa07/MeuPortifolio_)
 
-👉 **Portfólio online:** [Maria Fernanda Silva Lira](https://maliraa07.github.io/MeuPortifolio_/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Status](https://img.shields.io/badge/status-em_evolução-ec4899?style=flat-square)](https://github.com/maliraa07/MeuPortifolio_)
+[![Responsivo](https://img.shields.io/badge/layout-responsivo-22c55e?style=flat-square)](https://maliraa07.github.io/MeuPortifolio_/)
 
----
+**[👉 Acesse agora: maliraa07.github.io/MeuPortifolio_](https://maliraa07.github.io/MeuPortifolio_/)**
 
-## ✨ Destaques do projeto
+*Portfólio moderno, responsivo e com identidade visual forte para apresentar minha jornada em tecnologia.*
 
-- Hero com efeito de digitação e apresentação profissional
-- Seções completas: `Sobre`, `Formação`, `Habilidades`, `Experiência`, `Projetos` e `Contato`
-- Design dark com gradientes, animações e estilo editorial
-- Alternância de tema `Claro/Escuro` com persistência da escolha
-- Navegação suave entre seções
-- Estrutura pronta para personalização rápida
-- Layout responsivo para desktop, tablet e mobile
+</div>
 
 ---
 
-## 🧠 Tecnologias utilizadas
+## O que é?
 
-- `HTML5`
-- `CSS3`
-- `JavaScript (ES6+)`
-- `Bootstrap 5`
-- `Bootstrap Icons`
-- `AOS (Animate On Scroll)`
+Site de apresentação profissional com **hero animado**, seções de **sobre**, **formação**, **habilidades**, **experiência**, **projetos** e **contato** — pensado para recrutadores e networking tech.
+
+| | |
+|:---:|:---:|
+| ✨ **Hero** | Efeito de digitação e CTA para projetos e contato |
+| 🎨 **Visual** | Dark mode, gradientes, animações AOS e tema claro/escuro |
+| 📱 **Responsivo** | Desktop, tablet e mobile |
+| 🧭 **Navegação** | Scroll suave entre seções |
+| ⚙️ **Personalizável** | HTML, CSS e JS organizados para edição rápida |
 
 ---
 
-## 🗂️ Estrutura de pastas
+## Destaques
+
+- Design **editorial** com alternância **Claro/Escuro** (preferência salva no navegador)  
+- Seções completas para trajetória acadêmica e profissional  
+- Projetos em destaque: **VidaPlus**, APIs **FastAPI**, dashboards **React**  
+- Estrutura pronta para evoluir com novos cases e certificados  
+
+---
+
+## Stack
+
+| Camada | Tecnologias |
+|--------|-------------|
+| Marcação & estilo | HTML5, CSS3, Bootstrap 5, Bootstrap Icons |
+| Interatividade | JavaScript (ES6+) |
+| Animações | AOS (Animate On Scroll) |
+| Deploy | GitHub Pages |
+
+---
+
+## Rodar localmente
 
 ```bash
-Meu Portifolio - Site/
+git clone https://github.com/maliraa07/MeuPortifolio_.git
+cd MeuPortifolio_
+```
+
+Abra o arquivo `index.html` no navegador (Live Server no VS Code/Cursor também funciona).
+
+---
+
+## Estrutura de pastas
+
+```bash
+MeuPortifolio_/
 ├── index.html
 ├── css/
 │   └── style.css
 ├── js/
 │   └── script.js
+├── img/
 └── README.md
 ```
 
+---
 
-## 🎨 Personalização rápida
+## Personalização rápida
 
 ### Conteúdo
-- Edite os textos das seções em `index.html`
-- Atualize links de redes e contatos
-- Troque títulos, descrições e tecnologias dos projetos
+- Textos e links em `index.html`  
+- Redes sociais e dados de contato  
 
 ### Estilo
-- Ajuste cores e efeitos no `css/style.css`
-- Principais variáveis ficam em `:root`
+- Cores e efeitos em `css/style.css` (variáveis em `:root`)  
 
 ### Interatividade
-- Ajuste efeito de digitação, scroll e comportamento do formulário em `js/script.js`
-- Configure o botão de tema claro/escuro e preferências salvas em `localStorage`
+- Digitação, scroll e tema em `js/script.js`  
 
 ---
 
-## 🛣️ Próximos passos (roadmap)
+## Roadmap
 
-- [ ] Adicionar versão em inglês
-- [ ] Criar seção de certificados
-- [ ] Adicionar projetos com imagens reais
-
----
-
-## 💡 Processo de desenvolvimento
-
-Este projeto foi evoluído com apoio de **Cursor IA** e **ChatGPT** para acelerar:
-
-- revisão de texto profissional
-- refinamento visual e UX
-- organização de seções e conteúdo técnico
+- [ ] Versão em inglês  
+- [ ] Seção de certificados  
+- [ ] Projetos com imagens reais  
 
 ---
 
-## 👩‍💻 Sobre a autora
+## Processo de desenvolvimento
+
+Evoluído com apoio de **Cursor IA** e **ChatGPT** para revisão de texto, refinamento visual/UX e organização do conteúdo técnico.
+
+---
+
+## Sobre a autora
 
 **Maria Fernanda Silva Lira**  
-Analista de TI e Desenvolvedora Front-End  
-Foco em interfaces modernas, APIs REST e evolução Full Stack.
+Analista de TI e Desenvolvedora Front-End — interfaces modernas, APIs REST e evolução Full Stack.
 
-- LinkedIn: [mariafernandalira0702](https://www.linkedin.com/in/mariafernandalira0702)
-- GitHub: [maliraa07](https://github.com/maliraa07)
-- Email: `mariafernandalira072020@gmail.com`
+| | |
+|---|---|
+| 💼 LinkedIn | [mariafernandalira0702](https://www.linkedin.com/in/mariafernandalira0702) |
+| 🐙 GitHub | [maliraa07](https://github.com/maliraa07) |
+| 📧 E-mail | mariafernandalira072020@gmail.com |
 
 ---
 
-### Feito com dedicação, tecnologia e propósito. 💜
+## Deploy (GitHub Pages)
 
+| Configuração | Valor |
+|--------------|--------|
+| URL pública | [maliraa07.github.io/MeuPortifolio_](https://maliraa07.github.io/MeuPortifolio_/) |
+| Site estático | `index.html` na raiz do repositório |
+
+---
+
+<div align="center">
+
+**Feito com dedicação, tecnologia e propósito.**
+
+[⭐ Star no GitHub](https://github.com/maliraa07/MeuPortifolio_) · [🌐 Abrir portfólio](https://maliraa07.github.io/MeuPortifolio_/)
+
+</div>
