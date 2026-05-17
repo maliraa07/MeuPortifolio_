@@ -42,8 +42,17 @@ Site de apresentação profissional com **hero animado**, seções de **sobre**,
 
 - Design **editorial** com alternância **Claro/Escuro** (preferência salva no navegador)  
 - Seções completas para trajetória acadêmica e profissional  
-- Projetos em destaque: **VidaPlus**, APIs **FastAPI**, dashboards **React**  
 - Estrutura pronta para evoluir com novos cases e certificados  
+
+---
+
+## Outros projetos
+
+| Projeto | Descrição | Demo |
+|---------|-----------|------|
+| **Horizon** | App de controle de gastos (React, TypeScript, Vite, Zustand) | [Abrir demo](https://maliraa07.github.io/Projeto_Horizon/) |
+| **Estudie** | Timer de foco estilo Pomodoro (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_Estudie/) |
+| **GameStore** | E-commerce gamer para PC e console (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_GamesStore/) |
 
 ---
 
